@@ -1,6 +1,6 @@
-##Ответы на тест:
+## Ответы на тест:
 
-#1
+# 1
 
 andrey@andrey-VivoBook:~/cppProjects/OS_1$ cat a
 
