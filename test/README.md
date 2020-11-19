@@ -1,7 +1,5 @@
 ## Ответы на тест:
 
-# 1
-
 andrey@andrey-VivoBook:~/cppProjects/OS_1$ cat a
 
 frst
